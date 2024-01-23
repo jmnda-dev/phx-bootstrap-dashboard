@@ -1,0 +1,599 @@
+
+15:32:38.423 [debug] handled notification client -> server textDocument/didClose in 99µs
+
+15:33:34.890 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 8ms
+
+15:33:38.357 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 119µs
+
+15:37:44.537 [debug] handled notification client -> server textDocument/didOpen in 208µs
+
+15:37:44.544 id=517 [debug] handled request client -> server textDocument/documentSymbol in 525µs
+
+15:37:46.661 [debug] handled notification client -> server textDocument/didClose in 142µs
+
+15:37:46.680 [debug] handled notification client -> server textDocument/didOpen in 217µs
+
+15:37:46.687 id=518 [debug] handled request client -> server textDocument/documentSymbol in 504µs
+
+15:37:48.514 id=519 [debug] handled request client -> server textDocument/hover in 28ms
+
+15:37:50.168 id=520 [debug] handled request client -> server textDocument/hover in 38ms
+
+15:37:50.786 id=521 [debug] handled request client -> server textDocument/hover in 37ms
+
+15:37:52.719 [debug] handled notification client -> server textDocument/didChange in 756µs
+
+15:37:52.998 [debug] sent notification server -> client window/logMessage
+
+15:37:52.999 id=522 [debug] handled request client -> server textDocument/documentSymbol in 1ms
+
+15:37:54.424 [debug] handled notification client -> server textDocument/didChange in 892µs
+
+15:37:54.701 id=523 [debug] handled request client -> server textDocument/documentSymbol in 1ms
+
+15:37:55.825 [debug] handled notification client -> server textDocument/didChange in 253µs
+
+15:37:56.578 [debug] handled notification client -> server textDocument/didChange in 863µs
+
+15:37:56.856 id=524 [debug] handled request client -> server textDocument/documentSymbol in 1ms
+
+15:37:57.889 [debug] sent notification server -> client $/progress
+
+15:37:57.889 [debug] handled notification client -> server textDocument/didSave in 1ms
+
+15:37:57.926 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info] Unchecked dependencies for environment dev:
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info] * waffle (Hex package)
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info] * ash_phoenix (Hex package)
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info] * ash_admin (Hex package)
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.927 [info] * ash_authentication (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash (Hex package)
+  the dependency is not available, run "mix deps.get"
+* slugify (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_postgres (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:37:57.927 [debug] sent notification server -> client window/logMessage
+
+15:37:57.928 [info] * triplex (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_authentication_phoenix (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:37:57.935 [debug] sent notification server -> client window/logMessage
+
+15:37:57.935 [debug] sent notification server -> client $/progress
+
+15:37:57.935 [warning] Unexpected compiler response: {:error, %{message: "Can't continue due to errors on dependencies", __struct__: Mix.Error, __exception__: true, mix: 1}}
+
+15:37:58.200 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 173µs
+
+15:38:12.810 id=525 [debug] handled request client -> server textDocument/hover in 14ms
+
+15:38:20.722 id=526 [debug] handled request client -> server textDocument/hover in 10ms
+
+15:38:21.349 id=527 [debug] handled request client -> server textDocument/hover in 16ms
+
+15:38:36.953 [debug] handled notification client -> server textDocument/didChange in 3ms
+
+15:38:37.258 id=528 [debug] handled request client -> server textDocument/documentSymbol in 28ms
+
+15:38:38.419 [debug] handled notification client -> server textDocument/didChange in 732µs
+
+15:38:38.843 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:38:39.354 [debug] handled notification client -> server textDocument/didChange in 1ms
+
+15:38:39.635 id=529 [debug] handled request client -> server textDocument/documentSymbol in 5ms
+
+15:38:41.137 [debug] handled notification client -> server textDocument/didChange in 733µs
+
+15:38:41.437 id=530 [debug] handled request client -> server textDocument/documentSymbol in 16ms
+
+15:38:42.238 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:38:42.794 [debug] handled notification client -> server textDocument/didChange in 754µs
+
+15:38:43.098 id=531 [debug] handled request client -> server textDocument/documentSymbol in 26ms
+
+15:38:43.454 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:38:43.778 [debug] handled notification client -> server textDocument/didChange in 639µs
+
+15:38:44.134 [debug] handled notification client -> server textDocument/didChange in 1ms
+
+15:38:44.443 [debug] handled notification client -> server textDocument/didChange in 721µs
+
+15:38:44.725 id=532 [debug] handled request client -> server textDocument/documentSymbol in 5ms
+
+15:38:45.895 [debug] handled notification client -> server textDocument/didChange in 22ms
+
+15:38:46.578 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:38:47.058 [debug] handled notification client -> server textDocument/didChange in 841µs
+
+15:38:47.334 id=533 [debug] handled request client -> server textDocument/documentSymbol in 1ms
+
+15:38:47.762 [debug] handled notification client -> server textDocument/didChange in 6ms
+
+15:38:49.125 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:38:50.853 [debug] handled notification client -> server textDocument/didChange in 633µs
+
+15:38:51.132 id=534 [debug] handled request client -> server textDocument/documentSymbol in 3ms
+
+15:38:54.100 [debug] sent notification server -> client $/progress
+
+15:38:54.100 [debug] handled notification client -> server textDocument/didSave in 864µs
+
+15:38:54.122 [debug] sent notification server -> client window/logMessage
+
+15:38:54.122 [info] Unchecked dependencies for environment dev:
+* waffle (Hex package)
+
+
+15:38:54.122 [debug] sent notification server -> client window/logMessage
+
+15:38:54.122 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:38:54.122 [debug] sent notification server -> client window/logMessage
+
+15:38:54.122 [info] * ash_phoenix (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_admin (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_authentication (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash (Hex package)
+  the dependency is not available, run "mix deps.get"
+* slugify (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_postgres (Hex package)
+
+
+15:38:54.122 [debug] sent notification server -> client window/logMessage
+
+15:38:54.122 [info]   the dependency is not available, run "mix deps.get"
+* triplex (Hex package)
+
+
+15:38:54.122 [debug] sent notification server -> client window/logMessage
+
+15:38:54.122 [info]   the dependency is not available, run "mix deps.get"
+* ash_authentication_phoenix (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:38:54.123 [debug] sent notification server -> client window/logMessage
+
+15:38:54.123 [debug] sent notification server -> client $/progress
+
+15:38:54.123 [warning] Unexpected compiler response: {:error, %{message: "Can't continue due to errors on dependencies", __struct__: Mix.Error, __exception__: true, mix: 1}}
+
+15:38:54.416 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 163µs
+
+15:38:55.832 id=535 [debug] handled request client -> server textDocument/hover in 20ms
+
+15:39:14.233 id=536 [debug] handled request client -> server textDocument/definition in 46ms
+
+15:39:14.259 id=537 [debug] handled request client -> server textDocument/definition in 14ms
+
+15:39:14.410 id=538 [debug] handled request client -> server textDocument/definition in 45ms
+
+15:39:14.410 [debug] handled notification client -> server $/cancelRequest in 63µs
+
+15:39:14.427 id=539 [debug] handled request client -> server textDocument/definition in 17ms
+
+15:39:14.567 id=540 [debug] handled request client -> server textDocument/definition in 35ms
+
+15:39:14.567 [debug] handled notification client -> server $/cancelRequest in 89µs
+
+15:39:14.586 id=541 [debug] handled request client -> server textDocument/definition in 19ms
+
+15:39:14.821 id=542 [debug] handled request client -> server textDocument/hover in 22ms
+
+15:39:15.569 id=543 [debug] handled request client -> server textDocument/hover in 35ms
+
+15:39:15.885 id=544 [debug] handled request client -> server textDocument/hover in 16ms
+
+15:39:18.504 id=545 [debug] handled request client -> server textDocument/hover in 37ms
+
+15:39:18.915 id=546 [debug] handled request client -> server textDocument/hover in 36ms
+
+15:39:19.577 id=547 [debug] handled request client -> server textDocument/hover in 31ms
+
+15:39:21.429 [debug] handled notification client -> server textDocument/didChange in 10ms
+
+15:39:21.671 [debug] handled notification client -> server textDocument/didChange in 1ms
+
+15:39:21.949 [debug] sent notification server -> client window/logMessage
+
+15:39:21.949 id=548 [debug] handled request client -> server textDocument/documentSymbol in 2ms
+
+15:39:22.711 [debug] handled notification client -> server textDocument/didChange in 515µs
+
+15:39:22.936 id=549 [debug] handled request client -> server textDocument/documentSymbol in 5ms
+
+15:39:23.495 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:39:23.781 id=550 [debug] handled request client -> server textDocument/documentSymbol in 14ms
+
+15:39:26.210 [debug] sent notification server -> client $/progress
+
+15:39:26.211 [debug] handled notification client -> server textDocument/didSave in 2ms
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info] Unchecked dependencies for environment dev:
+* waffle (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info] * ash_phoenix (Hex package)
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info] * ash_admin (Hex package)
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info] * ash_authentication (Hex package)
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.246 [info] * ash (Hex package)
+
+
+15:39:26.246 [debug] sent notification server -> client window/logMessage
+
+15:39:26.247 [info]   the dependency is not available, run "mix deps.get"
+* slugify (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_postgres (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:39:26.247 [debug] sent notification server -> client window/logMessage
+
+15:39:26.247 [info] * triplex (Hex package)
+
+
+15:39:26.247 [debug] sent notification server -> client window/logMessage
+
+15:39:26.247 [info]   the dependency is not available, run "mix deps.get"
+* ash_authentication_phoenix (Hex package)
+
+
+15:39:26.247 [debug] sent notification server -> client window/logMessage
+
+15:39:26.247 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:39:26.247 [debug] sent notification server -> client window/logMessage
+
+15:39:26.247 [debug] sent notification server -> client $/progress
+
+15:39:26.247 [warning] Unexpected compiler response: {:error, %{message: "Can't continue due to errors on dependencies", __struct__: Mix.Error, __exception__: true, mix: 1}}
+
+15:39:26.513 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 175µs
+
+15:40:41.470 id=551 [debug] handled request client -> server textDocument/definition in 22ms
+
+15:40:41.470 [debug] handled notification client -> server $/cancelRequest in 57µs
+
+15:40:41.490 id=552 [debug] handled request client -> server textDocument/definition in 19ms
+
+15:40:48.280 id=553 [debug] handled request client -> server textDocument/definition in 26ms
+
+15:41:16.235 id=554 [debug] handled request client -> server textDocument/hover in 13ms
+
+15:41:16.235 [debug] handled notification client -> server $/cancelRequest in 47µs
+
+15:41:16.622 id=555 [debug] handled request client -> server textDocument/hover in 40ms
+
+15:41:17.082 id=556 [debug] handled request client -> server textDocument/hover in 39ms
+
+15:41:17.083 [debug] handled notification client -> server $/cancelRequest in 96µs
+
+15:41:17.290 id=557 [debug] handled request client -> server textDocument/hover in 41ms
+
+15:41:17.290 [debug] handled notification client -> server $/cancelRequest in 68µs
+
+15:41:19.548 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:41:19.821 id=558 [debug] handled request client -> server textDocument/documentSymbol in 768µs
+
+15:41:20.604 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:41:21.064 [debug] handled notification client -> server textDocument/didChange in 24ms
+
+15:41:21.311 id=559 [debug] handled request client -> server textDocument/documentSymbol in 615µs
+
+15:41:22.506 [debug] handled notification client -> server textDocument/didChange in 1ms
+
+15:41:23.907 [debug] handled notification client -> server textDocument/didChange in 549µs
+
+15:41:24.107 id=560 [debug] handled request client -> server textDocument/documentSymbol in 825µs
+
+15:41:26.014 [debug] handled notification client -> server textDocument/didChange in 930µs
+
+15:41:26.678 [debug] handled notification client -> server textDocument/didChange in 23ms
+
+15:41:26.998 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:41:28.237 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:41:28.507 id=561 [debug] handled request client -> server textDocument/documentSymbol in 669µs
+
+15:41:29.134 [debug] handled notification client -> server textDocument/didChange in 2ms
+
+15:41:29.411 id=562 [debug] handled request client -> server textDocument/documentSymbol in 354µs
+
+15:41:31.547 [debug] handled notification client -> server textDocument/didChange in 3ms
+
+15:41:31.812 id=563 [debug] handled request client -> server textDocument/documentSymbol in 631µs
+
+15:41:32.212 [debug] handled notification client -> server textDocument/didChange in 9ms
+
+15:41:32.476 id=564 [debug] handled request client -> server textDocument/documentSymbol in 221µs
+
+15:41:32.897 [debug] handled notification client -> server textDocument/didChange in 3ms
+
+15:41:33.302 [debug] handled notification client -> server textDocument/didChange in 3ms
+
+15:41:33.579 [debug] handled notification client -> server textDocument/didChange in 3ms
+
+15:41:33.893 id=565 [debug] handled request client -> server textDocument/documentSymbol in 749µs
+
+15:41:34.870 [debug] sent notification server -> client $/progress
+
+15:41:34.870 [debug] handled notification client -> server textDocument/didSave in 12ms
+
+15:41:34.931 [debug] sent notification server -> client window/logMessage
+
+15:41:34.931 [info] Unchecked dependencies for environment dev:
+
+
+15:41:34.931 [debug] sent notification server -> client window/logMessage
+
+15:41:34.931 [info] * waffle (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_phoenix (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_admin (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_authentication (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:41:34.931 [debug] sent notification server -> client window/logMessage
+
+15:41:34.932 [info] * ash (Hex package)
+  the dependency is not available, run "mix deps.get"
+* slugify (Hex package)
+
+
+15:41:34.932 [debug] sent notification server -> client window/logMessage
+
+15:41:34.932 [info]   the dependency is not available, run "mix deps.get"
+* ash_postgres (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:41:34.932 [debug] sent notification server -> client window/logMessage
+
+15:41:34.932 [info] * triplex (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_authentication_phoenix (Hex package)
+
+
+15:41:34.932 [debug] sent notification server -> client window/logMessage
+
+15:41:34.932 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:41:34.935 [debug] sent notification server -> client window/logMessage
+
+15:41:34.935 [debug] sent notification server -> client $/progress
+
+15:41:34.935 [warning] Unexpected compiler response: {:error, %{message: "Can't continue due to errors on dependencies", __struct__: Mix.Error, __exception__: true, mix: 1}}
+
+15:41:35.159 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 179µs
+
+15:41:52.463 id=566 [debug] handled request client -> server textDocument/hover in 16ms
+
+15:41:52.881 id=567 [debug] handled request client -> server textDocument/definition in 14ms
+
+15:42:58.289 id=568 [debug] handled request client -> server textDocument/hover in 36ms
+
+15:43:00.839 id=569 [debug] handled request client -> server textDocument/hover in 22ms
+
+15:44:47.802 [debug] handled notification client -> server $/setTrace in 5ms
+
+15:47:42.510 id=570 [debug] handled request client -> server textDocument/documentSymbol in 677µs
+
+15:47:48.766 [debug] handled notification client -> server textDocument/didChange in 702µs
+
+15:47:49.051 id=571 [debug] handled request client -> server textDocument/documentSymbol in 2ms
+
+15:47:52.542 [debug] handled notification client -> server textDocument/didChange in 1ms
+
+15:47:52.819 id=572 [debug] handled request client -> server textDocument/documentSymbol in 1ms
+
+15:47:53.720 [debug] sent notification server -> client $/progress
+
+15:47:53.720 [debug] handled notification client -> server textDocument/didSave in 1ms
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info] Unchecked dependencies for environment dev:
+* waffle (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info] * ash_phoenix (Hex package)
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info]   the dependency is not available, run "mix deps.get"
+* ash_admin (Hex package)
+  the dependency is not available, run "mix deps.get"
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info] * ash_authentication (Hex package)
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info] * ash (Hex package)
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info] * slugify (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_postgres (Hex package)
+  the dependency is not available, run "mix deps.get"
+* triplex (Hex package)
+  the dependency is not available, run "mix deps.get"
+* ash_authentication_phoenix (Hex package)
+
+
+15:47:53.762 [debug] sent notification server -> client window/logMessage
+
+15:47:53.762 [info]   the dependency is not available, run "mix deps.get"
+
+
+15:47:53.763 [debug] sent notification server -> client window/logMessage
+
+15:47:53.763 [debug] sent notification server -> client $/progress
+
+15:47:53.763 [warning] Unexpected compiler response: {:error, %{message: "Can't continue due to errors on dependencies", __struct__: Mix.Error, __exception__: true, mix: 1}}
+
+15:47:54.039 [debug] handled notification client -> server workspace/didChangeWatchedFiles in 9ms
+
+15:48:01.499 [debug] handled notification client -> server textDocument/didOpen in 259µs
+
+15:48:01.506 id=573 [debug] handled request client -> server textDocument/documentSymbol in 909µs
+
+15:48:12.605 [debug] handled notification client -> server textDocument/didClose in 130µs
+
+15:48:13.199 [debug] sent notification server -> client window/logMessage
+
+15:48:13.199 [warning] sqlite3 error: attempt to write a readonly database
+
+statement: DELETE FROM symbols
+WHERE symbols.file = ?;
+
+arguments: ["/home/jachin/projects/FMS/lib/fms_web/live/product_live/show.ex"]
+
+
+15:48:13.205 [error] GenServer :"db-FMS" terminating
+** (Protocol.UndefinedError) protocol Enumerable not implemented for {:error, "attempt to write a readonly database"} of type Tuple. This protocol is implemented for the following type(s): DBConnection.PrepareStream, DBConnection.Stream, Date.Range, Exqlite.Stream, File.Stream, Function, GenEvent.Stream, HashDict, HashSet, IO.Stream, Jason.OrderedObject, List, Map, MapSet, Range, Stream
+    (elixir 1.15.7) lib/enum.ex:1: Enumerable.impl_for!/1
+    (elixir 1.15.7) lib/enum.ex:166: Enumerable.reduce/3
+    (elixir 1.15.7) lib/enum.ex:4387: Enum.map/2
+    (next_ls 0.16.1) lib/next_ls/db.ex:70: anonymous fn/5 in NextLS.DB.handle_call/3
+    (opentelemetry 1.3.1) /private/tmp/cirrus-ci/working-dir/deps/opentelemetry/src/otel_tracer_default.erl:47: :otel_tracer_default.with_span/5
+    (next_ls 0.16.1) lib/next_ls/db.ex:57: NextLS.DB.handle_call/3
+    (stdlib 5.1.1) gen_server.erl:1113: :gen_server.try_handle_call/4
+    (stdlib 5.1.1) gen_server.erl:1142: :gen_server.handle_msg/6
+Last message (from #PID<0.254.0>): {:query, "DELETE FROM symbols\nWHERE symbols.file = ?;\n", ["/home/jachin/projects/FMS/lib/fms_web/live/product_live/show.ex"], %{}}
+State: %{logger: #PID<0.255.0>, file: "/home/jachin/projects/FMS/.elixir-tools/nextls.db", activity: :"db-activity-FMS", conn: %Exqlite.Connection{db: #Reference<0.4103349214.4290379799.70113>, directory: "/home/jachin/projects/FMS/.elixir-tools", path: "/home/jachin/projects/FMS/.elixir-tools/nextls.db", transaction_status: :idle, status: :idle, chunk_size: 50}}
+Client #PID<0.254.0> is alive
+
+    (stdlib 5.1.1) gen.erl:240: :gen.do_call/4
+    (elixir 1.15.7) lib/gen_server.ex:1071: GenServer.call/3
+    (next_ls 0.16.1) lib/next_ls.ex:822: anonymous fn/3 in NextLS.handle_notification/2
+    (elixir 1.15.7) lib/enum.ex:2510: Enum."-reduce/3-lists^foldl/2-0-"/3
+    (next_ls 0.16.1) lib/next_ls.ex:819: anonymous fn/2 in NextLS.handle_notification/2
+    (next_ls 0.16.1) lib/next_ls.ex:940: anonymous fn/4 in NextLS.dispatch/3
+    (elixir 1.15.7) lib/registry.ex:488: Registry.dispatch/4
+    (next_ls 0.16.1) lib/next_ls.ex:939: NextLS.dispatch/3
+
+15:48:13.211 [debug] sent notification server -> client window/logMessage
+
+15:48:13.211 [info] Beginning DB migration...
+
+15:48:13.216 [debug] sent notification server -> client window/logMessage
+
+15:48:13.216 [info] Database is being upgraded from version 0 to 5.
+
+This will trigger a full recompilation in order to re-index your codebase.
+
+
+15:48:13.217 [debug] sent notification server -> client window/logMessage
+
+15:48:13.217 [info] Finished DB migration...
